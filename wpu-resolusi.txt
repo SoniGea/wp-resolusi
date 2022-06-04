@@ -1,4 +1,6 @@
 WPU RESOLUSI
 - Konsisten coding setiap minggunya
+  1. ES6
+  2. Framework JS
 - Membuat website untuk pengelolaan SDM REG 2
 - Membuat Web pengelolaan performansi
