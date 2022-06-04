@@ -2,3 +2,4 @@ WPU RESOLUSI
 - Konsisten coding setiap minggunya
 - Membuat website untuk pengelolaan SDM REG 2
 - Membuat Web pengelolaan performansi
+- Kolaborasi antar performansi Reg 2
